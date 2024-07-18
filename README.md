@@ -9,6 +9,10 @@ REPOSITORY UNDER CONSTRUCTION
 <br>naif0012.tls
 <br>pck00011.tpc
 
+<br>
+Sample plot:
+
+![lowEnergyTransf](https://github.com/user-attachments/assets/782db5de-412b-4f7a-8fae-00da14ed1bd2)
 
 # References
 This program is mostly based on E. Belbruno's work on weak stability boundary transfers. More detailed references will be added later.
